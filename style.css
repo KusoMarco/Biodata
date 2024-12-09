@@ -1,0 +1,44 @@
+.div1{
+    display: flex;
+    
+}
+
+.judul{
+    font-size: 250%;
+    margin: auto;
+}
+
+header{
+    background-color: bisque;
+    text-align: center;
+    padding: 40px;
+    border-radius: 250px;
+}
+
+body{
+    background-color:antiquewhite
+}
+.navutama {
+    
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+h2{
+    text-align: center;
+}
+section{
+    background-color: beige;
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: auto;
+}
+body{
+    text-align: center;
+}
